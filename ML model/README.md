@@ -9,7 +9,7 @@ This is a part of our **Biomedical Device Design** project. It includes a machin
 This includes:
 
 - Training a **Random Forest Classifier** using handcrafted features
-- Real-time signal classification via **Streamlit** app
+- signal classification display via **Streamlit** app
 - A lightweight CLI tool for batch or test use
 
 ---
@@ -37,7 +37,21 @@ From each `Amplitude` signal, we extract **7 statistical features**:
 - Median
 - Root Mean Square (RMS)
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c370d9e-d4b6-48f1-aeaf-942feaee3b40" width="50%"/>
+</p>
+
+
 These features are passed to the Random Forest model for classification.
+
+
+## 📊 Model Evaluation
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87a36ac4-9303-4d23-a760-65dc998abe31" width="50%" />
+</p>
+
 
 ---
 
