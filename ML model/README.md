@@ -55,3 +55,11 @@ These features are passed to the Random Forest model for classification.
 
 ---
 
+## 🖼️ App Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73278f74-fe3f-4204-9054-22b7fb15cedb" width="45%" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/734a708f-9f72-4f5d-b03c-f345c0d32f4e" width="49%" />
+</p>
+
+
