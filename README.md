@@ -6,7 +6,7 @@
 
 
 
-This is the repository of a wireless EMG device built for our module **BM2210-Bio Medical Device Design**. The device analyzes forearm muscle signals and provides feedback about muscle activity.
+This is the repository of a wireless EMG device built for our module **BM2210-Bio Medical Device Design**. The device senses the forearm muscle signals on flexion and extension and then goes through an amplification and filtering part which at last will be transmitted to a laptop where the classification happens.
 
 ## Repository Contents
 
