@@ -10,10 +10,20 @@ This is the repository of a wireless EMG device built for our module **BM2210-Bi
 
 ## Repository Contents
 
+- 🔌 **Circuit Design**  
+- 🔧 **Breadboard Implementation** 
 - 🧩 **PCB Design**  
-- 🧱 **Enclosure Design**  
+- 🧱 **Enclosure Design**   
+- 📡 **Wireless Transmission**  
 - 🤖 **ML Model Development**  
-- 📄 **Documentation**  
+- 📄 **Documentation**
+
+## Circuit Design
+
+
+
+
+
 
 ## Breadboard Implementation
 
