@@ -124,4 +124,14 @@ The final filtered signal is transmissed using Wifi through an ESP32 micro contr
 
 ## ML Model Development
 
-A detailed description of the ML model is shown [here](./ML model).
+A detailed description of the ML model is shown [here](./ML-model).
+
+## Our Team 
+
+- Praveen Samuditha
+- Hansani Kaumadhi
+- Mohamed Aazir
+
+<div align="center">
+  <img src= https://github.com/user-attachments/assets/cc2a8ca3-5ec8-4fba-922c-86cd6e676983 alt="Enclosure3" width="60%"/>
+</div>
