@@ -122,3 +122,6 @@ We used SOLIDWORKS software for the designing of the enclosure. The enclosure co
 
 The final filtered signal is transmissed using Wifi through an ESP32 micro controller to the host computer. The computer then samples the signal and sends it through a digital filtering process using the **scipy** library. Then the final values are saved as a .csv file to be classified in the ML model.
 
+## ML Model Development
+
+A detailed description of the ML model is shown [here](./ML model).
